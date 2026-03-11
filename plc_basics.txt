@@ -1,0 +1,1 @@
+PLC stands for Programmable Logic Controller. It is used in industrial automation to control machines and processes. PLC systems are reliable and can operate in harsh industrial environments. They are commonly used in factories, motor control, and process automation.

@@ -1,0 +1,4 @@
+Motor control is an important part of industrial automation. 
+Electric motors are used to drive machines and production equipment. 
+Controllers such as PLCs can start, stop, and regulate the speed of motors. 
+Proper motor control helps improve efficiency and reduce mechanical problems.

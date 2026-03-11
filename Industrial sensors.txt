@@ -1,0 +1,4 @@
+Industrial sensors are used to measure physical conditions in automation systems. 
+Common types include temperature sensors, pressure sensors, and proximity sensors. 
+Sensors provide important data that helps machines and controllers monitor processes. 
+They are widely used in factories to improve efficiency and safety.

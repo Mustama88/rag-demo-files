@@ -1,0 +1,4 @@
+Automation systems are used to control industrial processes automatically. 
+These systems often include PLC controllers, sensors, actuators, and control software. 
+Automation helps reduce human error and increases production efficiency. 
+Many modern factories rely heavily on automated systems.
